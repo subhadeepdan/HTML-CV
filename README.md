@@ -1,3 +1,7 @@
-# HTML-CV
+# CV Website
 
-Basic CV developed using simple HTML5.
+Basic CV built using simple HTML5.
+
+Checkout the website [here](https://subhadeepdan.github.io/HTML-CV/).
+
+![](https://i.imgur.com/yrxyJ3B.png)
